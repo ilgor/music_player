@@ -1,4 +1,4 @@
-# music_player
+# Simple Music Player
 
 - `cd music_player`
 - `python3 -m venv .venv`
