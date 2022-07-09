@@ -10,5 +10,6 @@
 # TODO
 
 - Add auto play when a song reaches to the end
+- Add scrollable progress bar
 - Change the volume to scroll bar
 - Make the UI prettier
