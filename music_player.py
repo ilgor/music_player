@@ -41,7 +41,7 @@ class Player():
             self.pause()
             btn_text.set("  play  ")
         else:
-            self.play()
+            self.resume()
             btn_text.set("pause")
 
     def play(self):
