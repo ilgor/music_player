@@ -78,7 +78,7 @@ class Player():
                 playlist.insert(END, song)
 
 window = Tk()
-window.title("Ilgor's Music Player")
+window.title("Simple Music Player")
 
 frame = Frame(window)
 
